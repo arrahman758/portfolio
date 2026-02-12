@@ -216,6 +216,8 @@ section {
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center 15%;
+    /* Focus on face and chest */
     border: 5px solid var(--white);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     transition: var(--transition);
